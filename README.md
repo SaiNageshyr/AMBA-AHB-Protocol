@@ -4,3 +4,4 @@ The diagram below shows a typical AMBA-AHB protocol-based Microcontroller
 ![image](https://github.com/SaiNageshyr/AMBA-AHB-Protocol/assets/125950769/1f0a3845-8c91-4e31-8033-a4d771f8422e)
 Single master AHB system diagram
 ![image](https://github.com/SaiNageshyr/AMBA-AHB-Protocol/assets/125950769/ea59d8f6-a2ca-4429-8d98-b2cb448522ca)
+![image](https://github.com/SaiNageshyr/AMBA-AHB-Protocol/assets/125950769/39209746-15b7-41d6-a5d6-426c0806916d)
